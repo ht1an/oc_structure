@@ -1,5 +1,5 @@
 # this is used to analyse the rotation of the halo with K-giants
-
+# this line is used to test git
 import numpy as np
 import csv
 
